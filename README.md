@@ -8,7 +8,7 @@ verification, and a `rich` progress bar.
 **English** · [简体中文](./README.zh-Hans.md)
 
 ## Website
-pyurlfetch.macwave.org    
+pyurlfetch.macwave.org
 ## Install
 
 ```bash
